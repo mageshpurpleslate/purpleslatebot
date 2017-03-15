@@ -1,0 +1,25 @@
+{
+  "name": "psbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mageshpurpleslate/purpleslatebot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mageshpurpleslate/purpleslatebot/issues"
+  },
+  "homepage": "https://github.com/mageshpurpleslate/purpleslatebot#readme"
+}
